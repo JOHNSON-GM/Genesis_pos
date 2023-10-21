@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "pliars", 
+        "price": "350",
+        "image": "/frontend/images/pliers-1031962_1280.jpg"
+     },
+
+     {
+        "id": 2,
+        "name": "steel_nails", 
+        "price": "350",
+        "image": "/frontend/images/pliers-1031962_1280.jpg"
+
+     },
+
+     {
+        "id": 3,
+        "name": "panga", 
+        "price": "350",
+        "image": "/frontend/images/pliers-1031962_1280.jpg"
+
+     },
+
+     {
+        "id": 4,
+        "name": "screw_driver", 
+        "price": "350",
+        "image": "/frontend/images/pliers-1031962_1280.jpg"
+
+     },
+
+     {
+        "id": 5,
+        "name": "hammer", 
+        "price": "350",
+        "image": "/frontend/images/pliers-1031962_1280.jpg"
+
+     }
+
+    ]
+}
+    
